@@ -142,4 +142,4 @@ Validation Accuracy|	0.7496|	0.7106
 Validation Loss	|2.7509	|2.5795
 Training Time	|2064 sec|	2797 sec
 Training Epochs	|38	|53
-Test Accuracy	0.7437999844551086	0.70169997215271
+Test Accuracy	|0.7437999844551086	|0.70169997215271
