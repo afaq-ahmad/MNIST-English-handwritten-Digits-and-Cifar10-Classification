@@ -106,3 +106,26 @@ Here are few examples of images that are classified Wrongly by Neural Network cl
 
 ## 5.	Conclusion:
 Neural Network Number of parameters are large that help it to capture more dynamic features of handwritten digits but its take time to converge and it required large dataset. We achieved good accuracy on SVM but it takes more prediction time. Hence SVM is quite good in terms of accuracy but not good in terms of memory load, computations and time consumption at the testing time and its benefit is that it required less time for training and required less amount of dataset. 
+
+
+
+
+
+
+# 2nd Experiment:
+
+MNIST Dataset
+
+Model Type|	VGG|	RESNET
+--- | ---|---
+Model Architecture|	VGG16|	Resnet50
+Total params|	14847434|	24108554
+Training Accuracy|	1.0|	1.0
+Training Loss|	4.6742e-05|	3.3328e-05
+Validation Accuracy|	0.9948|	0.9940
+Validation Loss|	0.0487|	0.0368
+Training Time|	1056 sec|	2100 sec
+Training Epochs|	21|	34
+Test Accuracy|	0.9943000078201294|	0.9934999942779541
+
+    
