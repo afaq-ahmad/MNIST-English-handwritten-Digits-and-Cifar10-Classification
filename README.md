@@ -114,7 +114,7 @@ Neural Network Number of parameters are large that help it to capture more dynam
 
 # 2nd Experiment:
 
-MNIST Dataset
+### MNIST Dataset
 
 Model Type|	VGG|	RESNET
 --- | ---|---
@@ -129,3 +129,17 @@ Training Epochs|	21|	34
 Test Accuracy|	0.9943000078201294|	0.9934999942779541
 
     
+
+### Cifar10 Dataset
+
+Model Type|	VGG	|RESNET
+--- | ---|---
+Model Architecture|	VGG16|	Resnet50
+Total params	|14848586|	24114826
+Training Accuracy|	0.9999|	0.9999
+Training Loss	|0.0010	|7.2549e-04
+Validation Accuracy|	0.7496|	0.7106
+Validation Loss	|2.7509	|2.5795
+Training Time	|2064 sec|	2797 sec
+Training Epochs	|38	|53
+Test Accuracy	0.7437999844551086	0.70169997215271
